@@ -1,0 +1,6 @@
+Student Average Grades:
+=======================
+Alice: 84.33
+Bob: 88.00
+Charlie: 75.00
+David: 92.67
